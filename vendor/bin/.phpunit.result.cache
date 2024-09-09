@@ -1,0 +1,1 @@
+{"version":1,"defects":{"tests\\ProductTest::testProductName":3,"tests\\ProductTest::testSetName":3},"times":{"tests\\ProductTest::testProductName":0.003,"tests\\ProductTest::testProductPreco":0,"tests\\ProductTest::testVerificarTrue":0,"tests\\ProductTest::testVerificarFalse":0,"tests\\ProductTest::testSetPreco":0,"tests\\ProductTest::testSetName":0}}
